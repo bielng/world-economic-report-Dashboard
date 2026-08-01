@@ -1,14 +1,14 @@
 # Project Files
 
-Here are the files in your project directory:
+Here are the files in the project directory:
 
-| Name                | Date modified      | Type                      | Size     |
-| ------------------- | ------------------ | ------------------------- | -------- |
-| `ipynb_checkpoints` | 12/29/2025 6:23 PM | File folder               | —        |
-| `main.ipynb`        | 1/8/2026 9:12 PM   | Jupyter Source File       | 887 KB   |
-| `main.py`           | 12/29/2025 6:01 PM | Python Source File        | 1 KB     |
-| `README.md`         | 12/29/2025 5:52 PM | Markdown Source File      | 1 KB     |
-| `WorldBank.xlsx`    | 3/6/2024 3:28 PM   | Microsoft Excel Worksheet | 1,098 KB |
+| Name                |      
+| ------------------- | 
+| `ipynb_checkpoints` |  
+| `main.ipynb`        |  
+| `main.py`           |  
+| `README.md`         | 
+| `WorldBank.xlsx`    | 
 
 ---
 
